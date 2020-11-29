@@ -1,0 +1,2 @@
+{"level":"info","time":"2020-10-14T14:33:50.020+0800","file":"zap/log.go:68","msg":"log 初始化成功","appName":"zap"}
+{"level":"info","time":"2020-10-14T14:33:50.020+0800","file":"zap/log.go:15","msg":"login","appName":"zap","url":"https://1.1.1.1/login","user":"admin"}
