@@ -8,6 +8,7 @@ require (
 	github.com/boltdb/bolt v1.3.1
 	github.com/buger/jsonparser v1.0.0
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
+	github.com/miekg/dns v1.1.38
 	github.com/sirupsen/logrus v1.7.0
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/tal-tech/go-zero v1.0.29
