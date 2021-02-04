@@ -7,6 +7,7 @@ require (
 	github.com/astaxie/beego v1.12.3
 	github.com/boltdb/bolt v1.3.1
 	github.com/buger/jsonparser v1.0.0
+	github.com/gin-gonic/gin v1.6.3
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/miekg/dns v1.1.38
 	github.com/sirupsen/logrus v1.7.0
